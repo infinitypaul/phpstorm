@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="inline" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.paystack.co_v1_inline.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.paystack.co_v1_inline.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="trix" type="javaScript">
       <properties>
         <sourceFilesUrls>
