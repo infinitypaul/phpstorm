@@ -4,16 +4,17 @@
     <property name="created">2019-04-18T08:15:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-18T10:41:00</property>
+    <property name="modified">2019-12-06T18:35:15</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -145,7 +146,7 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
