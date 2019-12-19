@@ -4,7 +4,7 @@
     <property name="created">2019-04-18T08:15:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-12-19T11:05:39</property>
+    <property name="modified">2019-12-19T11:21:24</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -25,23 +25,31 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="263238" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_ADDED" value="a7700" />
+    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_DELETED" value="616161" />
+    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="773895" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="727238" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff0000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0000" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="607d8b" />
+    <option name="FILESTATUS_MERGED" value="7503dc" />
+    <option name="FILESTATUS_MODIFIED" value="32a0" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3264b4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8aa4c8" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_UNKNOWN" value="993300" />
+    <option name="FILESTATUS_addedOutside" value="eaa00" />
+    <option name="FILESTATUS_changelistConflict" value="ff0000" />
+    <option name="FILESTATUS_modifiedOutside" value="47e4" />
     <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
@@ -57,7 +65,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
     <option name="RIGHT_MARGIN_COLOR" value="37474f" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
-    <option name="SELECTED_TEARLINE_COLOR" value="9688" />
+    <option name="SELECTED_TEARLINE_COLOR" value="32424a" />
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
@@ -69,10 +77,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="9688" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="32424a" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.thumbColor" value="9688" />
+    <option name="ScrollBar.Mac.thumbColor" value="32424a" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688" />
@@ -86,6 +94,7 @@
     <option name="ScrollBar.thumbBorderColor" value="9688" />
     <option name="ScrollBar.thumbColor" value="9688" />
     <option name="ScrollBar.trackColor" value="263238" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
@@ -169,7 +178,7 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="32424a" />
         <option name="BACKGROUND" value="546e7a" />
       </value>
     </option>
@@ -2711,6 +2720,12 @@
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="" />
+    <option name="TAB_SELECTED">
+      <value />
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value />
+    </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">

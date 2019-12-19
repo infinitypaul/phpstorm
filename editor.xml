@@ -6,6 +6,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
