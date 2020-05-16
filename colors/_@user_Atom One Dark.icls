@@ -4,7 +4,7 @@
     <property name="created">2020-05-16T13:36:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-16T14:06:21</property>
+    <property name="modified">2020-05-16T17:11:37</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3511,11 +3511,13 @@
     <option name="TAB_SELECTED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
         <option name="FOREGROUND" value="59626f" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
