@@ -138,5 +138,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vue-paystack" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-paystack_dist_paystack.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_vue-paystack_dist_paystack.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
