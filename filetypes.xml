@@ -21,6 +21,7 @@
       <mapping pattern="using-variables" type="PLAIN_TEXT" />
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
       <mapping pattern="new BackupDisk" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
