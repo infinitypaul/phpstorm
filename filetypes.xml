@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="app" type="Erlang/OTP app" />
       <mapping ext="stub" type="PHP" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern="ForgeControntroller" type="PLAIN_TEXT" />

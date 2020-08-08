@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
 </keymap>
